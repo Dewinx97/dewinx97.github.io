@@ -3,6 +3,11 @@
     width:100%;
     Background-color:#858585s;
 }
-.fix{
-    text-align:center;
+.pic{
+    width:100%;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
